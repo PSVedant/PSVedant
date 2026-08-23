@@ -5,32 +5,44 @@
 <div align="center">
   <a href="https://linkedin.com/in/psvedant"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile"/></a>
   <a href="mailto:psv8466@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Contact"/></a>
+  <a href="https://github.com/PSVedant"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile"/></a>
 </div>
 
 <br>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="480" alt="Coding Workflow GIF" />
-</div>
+### 🚀 About Me
+I am a Computer Science engineering student at SRM Institute of Science and Technology (CGPA: 9.54/10)[cite: 1]. I specialize in architecting deep learning pipelines, developing custom CNNs, and building end-to-end analytical platforms[cite: 1]. 
+
+* **Experience Highlight:** As a Business Technology Intern at EY, I engineered Python automation tools that reduced manual data work and analysis by 64%, accelerating client-facing research cycles[cite: 1].
 
 <br>
 
-## 🛠️ Stack
+### 🛠️ Tech Arsenal
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,fastapi,react,ts,docker,supabase,mysql,git" alt="Technology Stack" />
 </div>
+<div align="center">
+  <sub><b>Specialized in:</b> Pandas, NumPy, Scikit-learn, OpenCV, Prophet, Isolation Forest, and REST APIs.</sub>
+</div>
 
 <br>
 
-## 🔨 Projects
+### 🔨 Featured Engineering
 
-| | Project | What |
+| | Project & Domain | Architecture & Impact |
 | :---: | :--- | :--- |
-| 🌿 | **[LeafNet-MCMD](https://github.com/PSVedant/leafnet_mcmd_gradcam)** | Custom CNN · 99.53% acc · 1.2M params · Grad-CAM |
-| 🏗️ | **[Metiqo](https://github.com/PSVedant)** | Metal trading intelligence platform · Prophet + Isolation Forest |
-| ⚡ | **[Kavach](https://github.com/PSVedant/Kavach)** | Parametric weather payouts for gig workers · ML trust scoring |
-| 🎯 | **[ProfileMint](https://github.com/PSVedant/ai-resume-analyzer)** | AI resume analyzer · rule-based + LLM hybrid |
+| 🌿 | **[LeafNet-MCMD](https://github.com/PSVedant/leafnet_mcmd_gradcam)**<br><sub>*Computer Vision*</sub> | Designed and trained a custom CNN (1.2M parameters) from scratch for plant disease classification, achieving **99.53% test accuracy** across 38 classes[cite: 1]. Reduced model size by up to 115x compared to heavy pretrained networks[cite: 1]. |
+| 🧠 | **TAM-UNet**<br><sub>*Medical Image AI*</sub> | Developed a custom attention-gated U-Net variant for liver and tumour segmentation from CT volumes[cite: 1]. Outperformed the U-Net baseline by **0.56 Dice points** on tumour segmentation[cite: 1]. |
+| 🏗️ | **[Metiqo](https://github.com/PSVedant)**<br><sub>*Predictive Analytics*</sub> | Engineered a metal trading intelligence platform with an auto-matching algorithm[cite: 1]. Built forecasting and anomaly-detection modules using Prophet and Isolation Forest to surface abnormal price movements[cite: 1]. |
+
+<br>
+
+### 🏆 Trophies & Milestones
+
+* **ICPC 2025:** Ranked 86th (Team VirtualDreamers)[cite: 1].
+* **Amazon ML Summer School 2026:** Selected Participant[cite: 1].
+* **Guidewire DEVTrails 2026 Hackathon:** Led Team GuideX in building *Kavach*, a parametric weather payout system for gig delivery workers[cite: 1].
 
 <br>
 
