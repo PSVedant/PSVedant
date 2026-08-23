@@ -1,3 +1,26 @@
+```text
+████████████████████████████████████████████████████████████  ██╗  ██╗███████╗██╗     ██╗      ██████╗
+████████████████████████████████████████████████████████████  ██║  ██║██╔════╝██║     ██║     ██╔═══██╗
+███████████████████████████████████`.       ╙██████████████  ███████║█████╗  ██║     ██║     ██║   ██║
+████████████████████████████████▀  ¿▓▓▓▓▓▓▓▓▄/ "████████████  ██╔══██║██╔══╝  ██║     ██║     ██║   ██║
+██████████████████████████████▀.  ▓▓▓▓▓▓▓▓▓▓▓▓   ▐██████████  ██║  ██║███████╗███████╗███████╗╚██████╔╝▄█╗
+██████████████████████████████ `  ▓▓▓▓▓▓▓▓▓▓▓▓  ` ██████████  ╚═╝  ╚═╝╚══════╝╚══════╝╚══════╝ ╚═════╝ ╚═╝
+██████████████████████████████ `  ▓▓▓▓▓▓▓▓▓▓▓▓   ▄██████████
+▀██████████████████████████████▌  ▀▀▓▓▓▓▓▓▓▌╓╖. ████████████  ███╗   ██╗██╗ ██████╗███████╗  ████████╗ ██████╗
+█▄▀██████████████████████████████▄ ╩╦╙▀▀▀▀▀ ╣`,█████████████  ████╗  ██║██║██╔════╝██╔════╝  ╚══██╔══╝██╔═══██╗
+▄▀█▄╙█████████████████████▀▀▀▀█████▄▄ .... ,▄███████▀███████  ██╔██╗ ██║██║██║     █████╗       ██║   ██║   ██║
+██▄▀█▄╙█████████████████▀  ╪╢%╦══~╓,└ ╚▒▒▒ ╙▀|,╓╓═╤H   ▀████  ██║╚██╗██║██║██║     ██╔══╝       ██║   ██║   ██║
+█▀▀▀-▀█▌▄▀█████████████   ║▒▒▒▒▒▒▒▒▒▒╢╦ ╘ -╣▒▒▒▒▒▒▒▒▒╢╕   ▀█  ██║ ╚████║██║╚██████╗███████╗     ██║   ╚██████╔╝
+██▄▀██└║▄▄▄████████████▄         ═╕╕╕╕╕═╕═══════       ▄▄▄▄  ╚═╝  ╚═══╝╚═╝ ╚═════╝╚══════╝     ╚═╝    ╚═════╝
+████▄▀█▌║███  ████████▌         ╕   ╩▒▒▒▒▒▒▒▒▒Ñ          ███
+██████▌Ö▓▌   ▀██████████`╔▒▒╣ █ ▒▒m   ╚▒╢▒▒▒╩ -╣▒ ▌ ▒▒▒ ████  ███╗   ███╗███████╗███████╗████████╗  ██╗   ██╗ ██████╗ ██╗   ██╗
+████ -"" ∞╙,▀.╙▀███████╜ ▒▒▒ ▄█ Ñ   -   S.  ═▒▒▒▒ █ ║▒▒╕└███  ████╗ ████║██╔════╝██╔════╝╚══██╔══╝  ╚██╗ ██╔╝██╔═══██╗██║   ██║
+████████▄ -«   ∞▄.▀",╓═     ╒██   ═╣▒▒ `Ñ╛        █▌ ▒▒▒ ███  ██╔████╔██║█████╗  █████╗     ██║      ╚████╔╝ ██║   ██║██║   ██║
+█████████▌ º     ╤╣▒╣╩^",▄▄███▀  ▒▒╣"      ''''''' ▀▀     `██  ██║╚██╔╝██║██╔══╝  ██╔══╝     ██║       ╚██╔╝  ██║   ██║██║   ██║
+█████████  ▌       ▄▄████████─         ---------   L'▒▒▒ ██  ██║ ╚═╝ ██║███████╗███████╗   ██║        ██║   ╚██████╔╝╚██████╔╝
+▀▀▀▀▀▀▀▀▀▀▀▀▀-     ▀▀▀▀▀▀▀▀▀▀       '╧╧╧╧╧╧╧╧╧`     ╚ ╧╧╧- ▀  ╚═╝     ╚═╝╚══════╝╚══════╝   ╚═╝        ╚═╝    ╚═════╝  ╚═════╝
+```
+
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=680&lines=Hey%2C+I'm+PS+Vedant+%F0%9F%91%8B;ML+Engineer+%7C+Builder;consistency+is+key+%E2%80%94+no+matter+what." alt="Typing animation" />
 </div>
@@ -11,9 +34,9 @@
 <br>
 
 ### 🚀 About Me
-I am a Computer Science engineering student at SRM Institute of Science and Technology (CGPA: 9.54/10)[cite: 1]. I specialize in architecting deep learning pipelines, developing custom CNNs, and building end-to-end analytical platforms[cite: 1]. 
+I am a Computer Science engineering student at SRM Institute of Science and Technology (CGPA: 9.54/10). I specialize in architecting deep learning pipelines, developing custom CNNs, and building end-to-end analytical platforms. 
 
-* **Experience Highlight:** As a Business Technology Intern at EY, I engineered Python automation tools that reduced manual data work and analysis by 64%, accelerating client-facing research cycles[cite: 1].
+* **Experience Highlight:** As a Business Technology Intern at EY, I engineered Python automation tools that reduced manual data work and analysis by 64%, accelerating client-facing research cycles.
 
 <br>
 
@@ -32,19 +55,21 @@ I am a Computer Science engineering student at SRM Institute of Science and Tech
 
 | | Project & Domain | Architecture & Impact |
 | :---: | :--- | :--- |
-| 🌿 | **[LeafNet-MCMD](https://github.com/PSVedant/leafnet_mcmd_gradcam)**<br><sub>*Computer Vision*</sub> | Designed and trained a custom CNN (1.2M parameters) from scratch for plant disease classification, achieving **99.53% test accuracy** across 38 classes[cite: 1]. Reduced model size by up to 115x compared to heavy pretrained networks[cite: 1]. |
-| 🧠 | **TAM-UNet**<br><sub>*Medical Image AI*</sub> | Developed a custom attention-gated U-Net variant for liver and tumour segmentation from CT volumes[cite: 1]. Outperformed the U-Net baseline by **0.56 Dice points** on tumour segmentation[cite: 1]. |
-| 🏗️ | **[Metiqo](https://github.com/PSVedant)**<br><sub>*Predictive Analytics*</sub> | Engineered a metal trading intelligence platform with an auto-matching algorithm[cite: 1]. Built forecasting and anomaly-detection modules using Prophet and Isolation Forest to surface abnormal price movements[cite: 1]. |
+| 🌿 | **[LeafNet-MCMD](https://github.com/PSVedant/leafnet_mcmd_gradcam)**<br><sub>*Computer Vision*</sub> | Designed and trained a custom CNN (1.2M parameters) from scratch for plant disease classification, achieving **99.53% test accuracy** across 38 classes. Reduced model size by up to 115x compared to heavy pretrained networks. |
+| 🧠 | **TAM-UNet**<br><sub>*Medical Image AI*</sub> | Developed a custom attention-gated U-Net variant for liver and tumour segmentation from CT volumes. Outperformed the U-Net baseline by **0.56 Dice points** on tumour segmentation. |
+| 🏗️ | **[Metiqo](https://github.com/PSVedant)**<br><sub>*Predictive Analytics*</sub> | Engineered a metal trading intelligence platform with an auto-matching algorithm. Built forecasting and anomaly-detection modules using Prophet and Isolation Forest to surface abnormal price movements. |
 
 <br>
 
 ### 🏆 Trophies & Milestones
 
-* **ICPC 2025:** Ranked 86th (Team VirtualDreamers)[cite: 1].
-* **Amazon ML Summer School 2026:** Selected Participant[cite: 1].
-* **Guidewire DEVTrails 2026 Hackathon:** Led Team GuideX in building *Kavach*, a parametric weather payout system for gig delivery workers[cite: 1].
+* **ICPC 2025:** Ranked 86th (Team VirtualDreamers).
+* **Amazon ML Summer School 2026:** Selected Participant.
+* **Guidewire DEVTrails 2026 Hackathon:** Led Team GuideX in building *Kavach*, a parametric weather payout system for gig delivery workers.
 
 <br>
+
+### 🐍 Contribution Graph
 
 <div align="center">
   <picture>
