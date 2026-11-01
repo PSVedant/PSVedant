@@ -1,6 +1,6 @@
 # Vedant
 
-<img src="YOUR_IMAGE_URL" width="120" align="right" alt="Photo of Vedant" />
+<img src="assets/photo.png" width="120" align="right" alt="Photo of Vedant" />
 
 Computer Science student at SRM Institute of Science and Technology, Chennai, graduating May 2027. I work mainly in machine learning, with an interest in computer vision and in making models efficient enough to deploy outside a notebook.
 
@@ -19,4 +19,4 @@ Building a model compression and deployment platform. Looking for ML/AI and soft
 
 **Contact**
 
-[LinkedIn](https://linkedin.com/in/psvedant) · [Email](mailto:psv8466@gmail.com) · [Resume](RESUME_LINK)
+[LinkedIn](https://linkedin.com/in/psvedant) · [Email](mailto:psv8466@gmail.com) · [Resume](https://drive.google.com/file/d/1i1DxQyl9Ws4ETt0c5LTOkVpWQFE55IM5/view?usp=sharing)
